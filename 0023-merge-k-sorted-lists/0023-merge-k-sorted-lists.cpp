@@ -29,10 +29,19 @@ ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
 public:
 //O(N * K )
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* dummy = nullptr;
-        for(int i = 0; i< lists.size();i++){
-            dummy = mergeTwoLists(dummy,lists[i]);
+        if(lists.empty()) return nullptr;
+        while(lists.size() > 1){
+            vector<ListNode*> merged;
+            for(int i = 0;i < lists.size();i+=2){
+                ListNode* l1= lists[i];
+                ListNode* l2 = nullptr;
+                if(i + 1 < lists.size()){
+                    l2 = lists[i+1];
+                }
+                merged.push_back(mergeTwoLists(l1,l2));
+            }
+            lists=merged;
         }
-        return dummy;
+        return lists[0];
     }
 };
