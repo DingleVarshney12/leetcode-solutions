@@ -27,7 +27,7 @@ ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         return dummy->next;
 }
 public:
-//O(N * K )
+//O(N log K )
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.empty()) return nullptr;
         while(lists.size() > 1){
