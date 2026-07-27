@@ -17,6 +17,7 @@ class Solution {
         count++;
         if(count == k){
             ans = root->val;
+            return;
         }
         inorder(root->right,k);
         
