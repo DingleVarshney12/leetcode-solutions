@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## String Matching
 |  |
@@ -256,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
