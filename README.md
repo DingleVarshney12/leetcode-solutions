@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1382-balance-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
@@ -274,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
