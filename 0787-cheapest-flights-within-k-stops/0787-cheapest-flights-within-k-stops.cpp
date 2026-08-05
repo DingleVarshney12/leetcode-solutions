@@ -1,46 +1,32 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        //adjancy list with weights
-        // from -> {to,price}
-        vector<vector<pair<int,int>>> adj(n);
-        for(auto& flight:flights){
-            int from = flight[0];
-            int to = flight[1];
-            int price = flight[2];
-            adj[from].push_back({to,price});
-        }
 
-        //dist[node][stops]
-        vector<vector<int>> dist(n,vector<int>(k+2,INT_MAX));
-        //{cost,node,flightTaken}
-        priority_queue<tuple<int,int,int>,vector<tuple<int,int,int>>,greater<tuple<int,int,int>>> pq;
+        // distance array : minimum cost to reachc each city
+        vector<int> dist(n,INT_MAX);
+        //source city cost is 0
+        dist[src] = 0;
+        // at most k stops can be use
+        for(int i = 0;i <= k;i++){
+            //copy previous iteration distance
+            vector<int> temp = dist;
 
-
-        dist[src][0] = 0;
-        pq.push({0,src,0});
-
-        
-        while(!pq.empty()){
-            auto [cost,node,stops] = pq.top();
-            pq.pop();
-            //found destination
-            if(node == dst) return cost;
-
-            //maximum flights already used
-            if(stops == k+1){
-                continue;
-            }
-
-            for(auto [neighbour,price]: adj[node]){
-                int newStops = stops+1;
-                int newCost = cost +price;
-                if(newCost < dist[neighbour][newStops]){
-                    dist[neighbour][newStops] = newCost;
-                    pq.push({newCost,neighbour,newStops});
+            // relax all edges
+            for(auto &edge : flights){
+                int u = edge[0];
+                int v = edge[1];
+                int wt = edge[2];
+                // if source city is reachable and a cheaper cost is found , update temp
+                if(dist[u] != INT_MAX && dist[u] + wt < temp[v]){
+                    temp[v] = min(temp[v],dist[u]+wt);
                 }
             }
+            // save updated distances
+            dist = temp;
         }
-        return -1;
+        //destination is unreachable 
+        if(dist[dst] == INT_MAX) return -1;
+        //minimum cost to reach destination
+        return dist[dst];
     }
 };
