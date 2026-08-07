@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -380,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
