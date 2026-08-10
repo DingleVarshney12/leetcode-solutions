@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0648-replace-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Hash Function
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -430,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
