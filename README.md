@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0198-house-robber](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
