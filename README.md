@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
