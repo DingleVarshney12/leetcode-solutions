@@ -53,6 +53,7 @@ public:
         }
         return dp[0][0];
         */
+        /*
         // Space Optimization
         // Time Complexity : O(n^2)
         // Space Complexity: O(n) 
@@ -69,5 +70,27 @@ public:
         }
 
         return dp[0];
+        */
+
+
+        /*
+        Today New Concept : Patience Sorting/LIS using Binary Search
+
+        Time Complexity : O(n log n)
+        Space Complexity: O(n)
+        */
+
+        vector<int> tails;
+        for(int i = 0;i < n ;i++){
+            auto it = lower_bound(tails.begin(), tails.end(), nums[i]);
+            if(it == tails.end()){
+                tails.push_back(nums[i]);
+            }
+            else{
+                *it = nums[i];
+            }
+        }
+        return tails.size();
+        
     }
 };
