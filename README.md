@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0338-counting-bits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
