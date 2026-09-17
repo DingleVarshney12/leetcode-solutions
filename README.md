@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0136-single-number) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0268-missing-number) |
