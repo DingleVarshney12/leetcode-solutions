@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0648-replace-words) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
