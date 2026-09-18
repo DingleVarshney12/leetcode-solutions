@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0268-missing-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0066-plus-one) |
@@ -687,4 +689,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0525-contiguous-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
