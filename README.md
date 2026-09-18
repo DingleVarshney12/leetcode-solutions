@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0148-sort-list) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0056-merge-intervals) |
