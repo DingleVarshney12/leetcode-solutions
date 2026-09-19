@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0796-rotate-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1268-search-suggestions-system) |
