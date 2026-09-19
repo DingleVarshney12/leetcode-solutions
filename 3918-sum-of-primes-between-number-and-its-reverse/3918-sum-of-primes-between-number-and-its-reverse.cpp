@@ -1,35 +1,41 @@
 class Solution {
-    int reverse(int n){
-        int reversed=0;
-        while(n){
-            reversed = (reversed * 10) + (n % 10);
+    int reverse(int n) {
+        int reversed = 0;
+        while (n > 0) {
+            reversed = reversed * 10 + n % 10;
             n /= 10;
         }
         return reversed;
     }
-    bool isPrime(int n){
-        if(n<=1) return false;
-        if(n == 2) return true;
-        if(n % 2 == 0) return false;
-        for(int i = 3; i <= sqrt(n);i+=2){
-            if(n % i == 0){
-                return false;
-            }
-        }
-        return true;
-    }
+
 public:
     int sumOfPrimesInRange(int n) {
         int r = reverse(n);
-        int minVal = min(n,r);
-        int maxVal = max(n,r);
+
+        int minVal = min(n, r);
+        int maxVal = max(n, r);
+
+        vector<bool> isPrime(maxVal + 1, true);
+
+        if (maxVal >= 0) isPrime[0] = false;
+        if (maxVal >= 1) isPrime[1] = false;
+
+        for (int i = 2; i * i <= maxVal; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j <= maxVal; j += i) {
+                    isPrime[j] = false;
+                }
+            }
+        }
+
         int sum = 0;
 
-        for(int i = minVal; i <= maxVal;i++ ){
-            if(isPrime(i)){
+        for (int i = minVal; i <= maxVal; i++) {
+            if (isPrime[i]) {
                 sum += i;
             }
         }
+
         return sum;
     }
 };
