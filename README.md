@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Geometry
 |  |
 | ------- |
@@ -708,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
