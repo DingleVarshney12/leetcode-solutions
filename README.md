@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -687,10 +690,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -722,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
