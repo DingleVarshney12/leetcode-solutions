@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -715,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
