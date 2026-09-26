@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Hash Function
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [3524-find-x-value-of-array-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
