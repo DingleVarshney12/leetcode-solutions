@@ -1,18 +1,24 @@
 class Solution {
-    string dfs(string s){
-        int r = s.find(')');
-        if(r == string::npos){
-            return s;
-        }
-        int l = s.rfind('(',r);
-        string left = s.substr(0,l);
-        string right = s.substr(r+1);
-        string content = s.substr(l+1,r-l-1);
-        reverse(begin(content),end(content));
-        return dfs(left+content+right);
-    }
 public:
     string reverseParentheses(string s) {
-        return dfs(s);
+        stack<string> st;
+        string curr = "";
+
+        for (char&c : s) {
+            if (c == '(') {
+                st.push(curr);
+                curr = "";
+            }
+            else if (c == ')') {
+                reverse(curr.begin(), curr.end());
+                curr = st.top() + curr;
+                st.pop();
+            }
+            else {
+                curr += c;
+            }
+        }
+
+        return curr;
     }
 };
