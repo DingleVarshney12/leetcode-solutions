@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
+| [0709-to-lower-case](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
