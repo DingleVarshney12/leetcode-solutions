@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
