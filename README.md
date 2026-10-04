@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
