@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Prefix Sum
 |  |
 | ------- |
