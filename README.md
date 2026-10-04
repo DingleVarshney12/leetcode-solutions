@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
