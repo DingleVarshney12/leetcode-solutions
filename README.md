@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0824-goat-latin) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
