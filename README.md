@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
