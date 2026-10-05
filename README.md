@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0819-most-common-word](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0819-most-common-word) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
