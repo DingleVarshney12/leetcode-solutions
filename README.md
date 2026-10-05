@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2540-minimum-common-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Topological Sort
 |  |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Zero-Sum Game
