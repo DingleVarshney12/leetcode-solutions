@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3524-find-x-value-of-array-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0677-map-sum-pairs](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0677-map-sum-pairs) |
 | [1656-design-an-ordered-stream](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
+| [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Topological Sort
 |  |
 | ------- |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Zero-Sum Game
 |  |
 | ------- |
