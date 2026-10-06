@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2469-convert-the-temperature](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3270-find-the-key-of-the-numbers) |
