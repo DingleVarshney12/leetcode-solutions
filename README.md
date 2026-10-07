@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1268-search-suggestions-system](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1408-string-matching-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1408-string-matching-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
