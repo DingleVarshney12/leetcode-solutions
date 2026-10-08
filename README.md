@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0319-bulb-switcher) |
