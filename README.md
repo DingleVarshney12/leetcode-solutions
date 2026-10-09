@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1656-design-an-ordered-stream](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
+| [1701-average-waiting-time](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1701-average-waiting-time](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
