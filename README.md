@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0561-array-partition) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0498-diagonal-traverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1389-create-target-array-in-the-given-order](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
