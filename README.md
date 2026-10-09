@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1656-design-an-ordered-stream](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2540-minimum-common-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2540-minimum-common-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
