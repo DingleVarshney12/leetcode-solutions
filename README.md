@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1268-search-suggestions-system](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1408-string-matching-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0819-most-common-word](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
