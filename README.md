@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1268-search-suggestions-system](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1323-maximum-69-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0258-add-digits) |
+| [1250-check-if-it-is-a-good-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2413-smallest-even-multiple](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
@@ -911,4 +914,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0561-array-partition) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
