@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2784-check-if-array-is-good](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3524-find-x-value-of-array-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3527-find-the-most-common-response](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
