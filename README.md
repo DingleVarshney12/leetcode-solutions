@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Geometry
 |  |
