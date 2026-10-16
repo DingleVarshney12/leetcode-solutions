@@ -61,14 +61,8 @@ public:
         ll ans = 0;
 
         for (int i = 0; i < n; i++) {
-            int l = 0;
-            auto it = lastSeen.find(nums[i]);
-
-            if (it != lastSeen.end())
-                l = it->second + 1;
-
+            int l = lastSeen.count(nums[i]) ? lastSeen[nums[i]] + 1 : 0;
             update(1, 0, n - 1, l, i);
-
             ans = (ans + sumSq[1]) % MOD;
             lastSeen[nums[i]] = i;
         }
