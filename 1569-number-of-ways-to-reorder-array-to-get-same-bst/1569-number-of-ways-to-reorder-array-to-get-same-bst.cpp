@@ -14,7 +14,7 @@ class Solution {
             return 1;
         int root = nums[0];
         vi left, right;
-        for (int i = 1; i < n; i++) {
+        f(i,1,n){
             if (nums[i] < root)
                 left.push_back(nums[i]);
             else
