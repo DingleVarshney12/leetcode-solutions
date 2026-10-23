@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2784-check-if-array-is-good](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1514-path-with-maximum-probability](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 ## Stack
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -582,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
