@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0970-powerful-integers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0970-powerful-integers) |
 | [1048-longest-string-chain](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0877-stone-game) |
+| [0970-powerful-integers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0970-powerful-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0970-powerful-integers) |
 | [3886-sum-of-sortable-integers](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
