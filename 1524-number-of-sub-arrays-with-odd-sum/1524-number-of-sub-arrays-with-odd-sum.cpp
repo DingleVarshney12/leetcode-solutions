@@ -7,7 +7,7 @@ public:
         int ans = 0, parity = 0;
         for(int num : nums){
             parity ^= (num & 1);
-            if(parity % 2 == 0) even++;
+            if(parity == 0) even++;
             else odd++;
             ans = (ans + ((parity % 2 == 0) ? odd : even)) % MOD;
         }
