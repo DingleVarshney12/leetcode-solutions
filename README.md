@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1514-path-with-maximum-probability](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
