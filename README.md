@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2512-reward-top-k-students](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2512-reward-top-k-students) |
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Zero-Sum Game
