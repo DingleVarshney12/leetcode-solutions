@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3527-find-the-most-common-response](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3527-find-the-most-common-response](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3527-find-the-most-common-response) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3242-design-neighbor-sum-service](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/DingleVarshney12/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
